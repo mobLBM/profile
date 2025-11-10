@@ -31,7 +31,7 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td>
       <h3>Cyber<br/>Security</h3>   
       <div align="center">  
       <a href="https://www.linux.org/" target="_blank">
