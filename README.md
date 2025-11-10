@@ -31,6 +31,7 @@
 
 <table width:100%>
   <tr>
+    <td valign="top">
       <h3>Cyber<br/>Security</h3>   
       <div align="center">  
       <a href="https://www.linux.org/" target="_blank">
@@ -88,7 +89,6 @@
         </a>  
       </div>
     </td>
-    td
   </tr>
 </table>  
 
