@@ -5,6 +5,8 @@
 
 ## <div align="center">I'm Timurmalik, Student @ University of Wollongong · Cyber Security</div>  
   
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 
 ### **🧑‍💻 About me**  
   
@@ -116,5 +118,6 @@
   
 <br/>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/moblbm/profile/main/assets/github-snake.svg" align="center" style="width: 100%" />
+</div>  
