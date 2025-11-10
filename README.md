@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/moblbm/profile/main/tumblr_owi25v6uAo1r4gsiio1_1280.webp" align="center" style="width: 100%" />
+  <img src="https://raw.githubusercontent.com/moblbm/profile/main/assets/tumblr_owi25v6uAo1r4gsiio1_1280.webp" align="center" style="width: 100%" />
 </div>  
   
 
