@@ -53,7 +53,7 @@
 
 
         
-<div align="center">  
+<div>  
       <h3>Cyber<br/>Security</h3> 
       <a href="https://www.linux.org/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -67,9 +67,10 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
+<br/>
 
       
-<div align="center">
+<div>
   <h3>Front-End</h3>   
         <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
@@ -91,8 +92,9 @@
         </a>  
 </div>
 
+<br/>
        
-<div align="center">  
+<div>  
   <h3>Back-End</h3>  
         <a href="https://www.mongodb.com/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
