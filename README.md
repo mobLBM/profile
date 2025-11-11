@@ -6,6 +6,18 @@
 ## <div align="center">I'm Timurmalik, Student @ University of Wollongong · Cyber Security</div>  
 
 <div align="center">
+  <a href="https://github.com/https://github.com/mobLBM" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/timurmalik-djuraev-8a19ab308/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/https://www.instagram.com/timaliklbm?igsh=MWx2Y2JibHF1NDQwNQ%3D%3D&utm_source=qr" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>  
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=mobLBM&&style=flat-square" align="center" />
 </div> 
 
@@ -99,18 +111,6 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-  <a href="https://github.com/https://github.com/mobLBM" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/timurmalik-djuraev-8a19ab308/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://instagram.com/https://www.instagram.com/timaliklbm?igsh=MWx2Y2JibHF1NDQwNQ%3D%3D&utm_source=qr" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>  
-</div>
   
 
 <br/>   
