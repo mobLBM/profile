@@ -6,7 +6,7 @@
 ## <div align="center">I'm Timurmalik, Student @ University of Wollongong · Cyber Security</div>  
 
 <div align="center">
-  <a href="https://github.com/https://github.com/mobLBM" target="_blank">
+  <a href="https://github.com/mobLBM" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/timurmalik-djuraev-8a19ab308/" target="_blank">
