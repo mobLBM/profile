@@ -126,7 +126,7 @@
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
         </a>  
         <a href="https://www.mysql.com/" target="_blank">
-          <img style="margin: 10px" src="https://raw.githubusercontent.com/moblbm/profile/main/assets/png-transparent-mysql-round-logo-tech-companies.png" alt="MySQL" height="50" />
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/moblbm/profile/main/assets/png-clipart-mysql-mysql-thumbnail.png" alt="MySQL" height="50" />
         </a>  
         <a href="https://www.postgresql.org/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
