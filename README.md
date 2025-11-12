@@ -56,17 +56,41 @@
 <div>  
       <h3>Cyber Security/Pentest</h3> 
       <a href="https://www.linux.org/" target="_blank">
-        <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+        <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+      </a>  
       <a href="https://about.gitlab.com/" target="_blank">
-        <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-      <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-        <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+        <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+      </a>    
       <a href="https://www.python.org/" target="_blank">
-        <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+        <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+      </a>  
       <a href="https://www.docker.com/" target="_blank" style="margin: 50px">
-        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-      <a href="https://www.docker.com/" target="_blank" style="margin: 50px">
-        <img src="https://raw.githubusercontent.com/moblbm/profile/main/assets/burp-suite-professional.svg" alt="Docker" height="50" /></a>  
+        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+      </a>  
+      <a href="https://portswigger.net/burp" target="_blank" style="margin: 50px">
+        <img src="https://raw.githubusercontent.com/moblbm/profile/main/assets/burp-suite-professional.svg" alt="BurpSuite" height="50" />
+      </a>
+      <a href="https://www.wireshark.org/" target="_blank" style="margin: 50px">
+        <img src="https://raw.githubusercontent.com/moblbm/profile/main/assets/wireshark-logo-big.CkRjSOaC_2eT4Ah.png" alt="Wireshark" height="50" />
+      </a>
+      <a href="https://cisco-packet-tracer.fileion.com/" target="_blank">
+        <img style="margin: 50px" src="https://raw.githubusercontent.com/moblbm/profile/main/assets/cisco-packet-tracer.png" alt="Cisco Packet Tracer" height="50" />
+      </a>
+      <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
+        <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
+      </a>
+      <a href="https://yolinux.com/TUTORIALS/BashShellCgi.html" target="_blank">
+        <img style="margin: 50px" src="https://raw.githubusercontent.com/moblbm/profile/main/assets/128px-Bash_Logo_Colored.svg.png" alt="Bash" height="50" />
+      </a>
+      <a href="https://www.metasploit.com/" target="_blank">
+        <img style="margin: 50px" src="https://raw.githubusercontent.com/moblbm/profile/main/assets/avizdvoa8.webp" alt="Metasploit" height="50" />
+      </a>
+      <a href="https://nmap.org/" target="_blank">
+        <img style="margin: 50px" src="https://raw.githubusercontent.com/moblbm/profile/main/assets/nmap.png" alt="nmap" height="50" />
+      </a>
+      <a href="https://sqlmap.org/" target="_blank">
+        <img style="margin: 50px" src="https://raw.githubusercontent.com/moblbm/profile/main/assets/128px-Sqlmap_logo.png" alt="SQLmap" height="50" />
+      </a>
 </div>
 
 <br/>
@@ -102,7 +126,7 @@
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
         </a>  
         <a href="https://www.mysql.com/" target="_blank">
-          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+          <img style="margin: 10px" src="https://raw.githubusercontent.com/moblbm/profile/main/assets/png-transparent-mysql-round-logo-tech-companies.png" alt="MySQL" height="50" />
         </a>  
         <a href="https://www.postgresql.org/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
